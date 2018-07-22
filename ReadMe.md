@@ -15,7 +15,7 @@ A step by step examples show you how Bamazon works.
 ### Run the app 
 
 
-## h2 1. Enter bamazonCustomer.js to open up the store 
+##h2  1. Enter bamazonCustomer.js to open up the store 
 
 Upon entering the app  user will be presented with the list of inventories. Each item displays the name of product, id, and price.
 
@@ -25,7 +25,7 @@ Please refer to [screenshot #1](screen1.gif)to see this step of UX journey.
 
 
 
-## h2 2. Entering product's id
+##h2  2. Entering product's id
 
 Entering product's id from the displayed inventory triggers another prompt asking for quantity.
 
@@ -33,7 +33,7 @@ Please refer to [screenshot #2](screen2.gif).
 
 
 
-## h2 3. Entering product's quantity
+##h2 3. Entering product's quantity
 
 Entering product's quantity triggers next step that provides  price of the individaul item and the total cost.
 It also thanks customer for the purchase.
@@ -42,7 +42,7 @@ Please refer to [screenshot #3](screen3.gif)..
 
 
 
-## h2 4. In case the inventory is insufficient
+##h2 4. In case the inventory is insufficient
 
 When the quantity of the item is insuffcient transaction cannot take place. The user will be informed accordingly. They  will be asked to try another item. 
 
